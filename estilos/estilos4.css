@@ -1,0 +1,34 @@
+
+body{
+    background-color: #ffafcc;
+}
+
+.caption {
+    text-align: center; /* Centra el texto horizontalmente */
+}
+
+img {
+    border: 8px solid #a2d2ff; /* Borde sólido negro de 3 píxeles de ancho */
+    border-radius: 10px; /* Bordes redondeados de 10 píxeles de radio */
+}
+
+h1 {
+    background-color: #bde0fe; /* Color de fondo */
+    padding: 20px; /* Espacio interno para que el texto no toque el borde */
+    color: rgb(0, 0, 0)e; /* Color del texto para contraste con el fondo */
+    border-radius: 10px;
+    text-align: center; /* Centra el texto horizontalmente */
+}
+
+.caption {
+    background-color: #bde0fe; /* Color de fondo */
+    padding: 20px; /* Espacio interno para que el texto no toque el borde */
+    color: white; /* Color del texto para contraste con el fondo */
+    border-radius: 10px;
+    text-align: center; /* Centra el texto horizontalmente */
+}
+
+p{
+    background-color: #bde0fe; /* Color de fondo */
+
+}

@@ -1,0 +1,19 @@
+
+body{
+    background-color: #ffafcc;
+}
+
+.btn-primary {
+    background-color: #a2d2ff; 
+    border-color: #a2d2ff;     
+}
+
+.form-control{
+    background-color: #ffc8dd;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #cdb4db; 
+}
